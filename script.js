@@ -33,4 +33,4 @@ setInterval(() => {
   counter.hrs.innerHTML = hrs;
   counter.mins.innerHTML = mins;
   counter.secs.innerHTML = secs;
-}, 5000);
+}, 10000);
